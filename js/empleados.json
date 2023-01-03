@@ -1,0 +1,20 @@
+{
+    "empleados" : [
+        {
+            "id" : 1,
+            "nombre": "Noemi",
+            "puesto": "FullStack"
+        },
+        {
+            "id" : 2,
+            "nombre": "Juan",
+            "puesto": "Programador"
+        },
+        {
+            "id" : 3,
+            "nombre": "Miguel",
+            "puesto": "Servidor"
+        }
+
+    ]
+}
